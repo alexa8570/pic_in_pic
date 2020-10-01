@@ -1,4 +1,2 @@
-# pic_in_pic
-# pic_in_pic
-# pic_in_pic
-# pic_in_pic
+# JS project 03 pic_in_pic
+
